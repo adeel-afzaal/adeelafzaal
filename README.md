@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @adeel-afzaal
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Mern Stack
-- 💞️ I’m looking to collaborate on projects of web development.
-- 📫 How to reach me, just don't.
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on projects of Android/iOS Development.
+- 📫 How to reach me, just connect with me on LinkedIn @adeelafzaal.
 
 <!---
 adeel-afzaal/adeel-afzaal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
